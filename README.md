@@ -50,7 +50,7 @@ docker-compose logs -f
 Les captures d'écran montrent :
 - Le lancement de `docker-compose up -d`
   
-  <img width="673" height="209" alt="tp14jee" src="https://github.com/user-attachments/assets/a3ae23b0-533c-4ed7-9a39-4411d96beb43" />
+<img width="673" height="209" alt="tp14jee" src="https://github.com/user-attachments/assets/a3ae23b0-533c-4ed7-9a39-4411d96beb43" />
 
 - Les logs de Spring Boot indiquant que l'application a démarré
 correctement
